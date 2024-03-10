@@ -1,0 +1,1 @@
+[My kindle copy of the PyTorch book is here.](https://read.amazon.com/?asin=B09781R4PM&ref_=kwl_kr_iv_rec_1)
